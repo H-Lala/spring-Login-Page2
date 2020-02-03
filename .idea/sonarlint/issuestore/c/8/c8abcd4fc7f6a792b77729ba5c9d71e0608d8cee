@@ -1,0 +1,7 @@
+
+isquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(×ÇÍ¦ùÿÿÿÿ8Å±œÓ€.
+;squid:S3751"Make this method "public".(õåá ÿÿÿÿÿ8¨–¾Ó€.
+dsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†8Å±œÓ€.
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°²é8Ï¶¼Ó€.
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ùæûùÿÿÿÿ8¨–¾Ó€.
+asquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(õåá ÿÿÿÿÿ8Ãê™Ó€.
